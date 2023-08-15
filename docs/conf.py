@@ -8,7 +8,7 @@
 import sys
 
 sys.path.insert(0, '../')
-project = pyvim
+project = 'pyvim'
 copyright = '2023, Mohammad Sina Allahkaram'
 author = 'Mohammad Sina Allahkaram'
 release = '0.0.1'
